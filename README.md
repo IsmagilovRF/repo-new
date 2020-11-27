@@ -1,2 +1,1 @@
-# repo-new
-для сайта repo-new
+# IsmagilovRF.github.io
